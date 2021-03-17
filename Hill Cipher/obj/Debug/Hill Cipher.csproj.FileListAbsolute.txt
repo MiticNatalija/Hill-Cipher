@@ -1,0 +1,7 @@
+C:\Users\korisnik\source\repos\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.exe.config
+C:\Users\korisnik\source\repos\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.exe
+C:\Users\korisnik\source\repos\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.pdb
+C:\Users\korisnik\source\repos\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.exe
+C:\Users\korisnik\source\repos\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.pdb
